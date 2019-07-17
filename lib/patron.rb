@@ -9,5 +9,5 @@ class Patron
 
   def add_interest(interest)
   @interests.push interest
-  end 
+  end
 end
